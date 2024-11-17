@@ -20,6 +20,7 @@ npm install
 
 ## Run the Development Server:
 npm run dev
+Access the App: Open http://localhost:3000 in your browser. Check is port 3000 is in use
 
 # Production Environment:
 Build the Application: Before running in production, build the app:
